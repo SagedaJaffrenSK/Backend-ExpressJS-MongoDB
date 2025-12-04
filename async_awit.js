@@ -23,7 +23,7 @@ function getUserMarks(userSub){
 }
 
 const myFun = async () => {
-    console.log("124");
+    console.log("980");
 
     const result = await getUserDetails("145");
     console.log(result);
@@ -31,8 +31,8 @@ const myFun = async () => {
     const userSub = await getUserSubjects(result);
     console.log(userSub);
 
-    const userMarks = await getUserMarks(userSub);
-    console.log(userMarks);
+    const userMarksDetails = await getUserMarks(userSub);
+    console.log(userMarksDetails);
 
     console.log("789");
 };
