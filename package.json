@@ -1,0 +1,23 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/SagedaJaffrenSK/Backend-ExpressJS-MongoDB.git"
+  },
+  "author": "Jaffren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SagedaJaffrenSK/Backend-ExpressJS-MongoDB/issues"
+  },
+  "homepage": "https://github.com/SagedaJaffrenSK/Backend-ExpressJS-MongoDB#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
